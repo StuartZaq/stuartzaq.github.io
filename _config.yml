@@ -1,11 +1,10 @@
 title: "Неумелый гекскроул"
 description: "Блог о настольных ролевых играх и OSR"
-baseurl: "" # оставляем пустым для https://stuartzaq.github.io/
+baseurl: ""
 url: "https://stuartzaq.github.io"
 theme: minima
-# Отображение постов по категориям/тегам
-paginate: 5                # количество постов на главной странице
-paginate_path: "/page:num/" # пагинация
+paginate: 5
+paginate_path: "/page:num/"
 navigation:
   - title: "Обо мне"
     url: /about/
@@ -14,5 +13,5 @@ navigation:
 social:
   vk: "https://vk.com/awkward_hexcrawl"
   telegram: "https://t.me/awkward_hexcrawl"
-markdown: kramdown          # движок для Markdown (стандарт)
-highlighter: rouge          # подсветка кода
+markdown: kramdown
+highlighter: rouge
