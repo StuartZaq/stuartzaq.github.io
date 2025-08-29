@@ -9,7 +9,7 @@ tags:
 excerpt: "Мой первый пост о старой школе RPG и личных впечатлениях."
 author: "Sergey Pomorantsev"
 comments: true
-image: /assets/images/first-post.jpg
+# image: /assets/images/first-post.jpg
 ---
 
 Это мой первый пост в новый блог. Потом удалю его. Просто тестирую.
