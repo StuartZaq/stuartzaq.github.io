@@ -6,7 +6,7 @@ layout: page
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "guides" %}
+    {% if post.categories contains "Гайды" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
     {% endif %}
   {% endfor %}
