@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h1>Гайды</h1>
+# Гайды
 
 <ul>
   {% for post in site.posts %}
