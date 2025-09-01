@@ -3,16 +3,6 @@ description: "Блог о настольных ролевых играх в ду
 baseurl: ""
 url: "https://stuartzaq.github.io"
 theme: minima
-# paginate: 5
-# paginate_path: "/page:num/"
-# navigation:
-#  - title: "Обо мне"
-#    url: /about/
-#  - title: "Полезные ссылки"
-#    url: /links/
-# social:
-#  vk: "https://vk.com/awkward_hexcrawl"
-#  telegram: "https://t.me/awkward_hexcrawl"
 markdown: kramdown
 kramdown:
   toc_levels: 1..3
