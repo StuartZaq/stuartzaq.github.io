@@ -3,6 +3,8 @@ layout: post
 title: "Мой первый пост"
 date: 2025-08-29 15:23:00 +0300
 author: "Sergey Pomerantsev"
+tags:
+categories:
 ---
 
 Блог в blot оплачивать не охота. Сегодня разобрался с альтернативой.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Покупка WHITEHAC"
+date: 2020-12-17
+author: "Sergey Pomerantsev"
+tags:
+categories:
+---
+tags: [collection, phot]
+
+# Покупка WHITEHACK
+
+![](/images/_whitebox_and_whitehack.jpg)
+
+Белохак существует только в бумаге, а в pdf удалось найти чуть ли ни половину книжки только, поэтому решено было обзавестись копией.\
+\
+Белокороб был взят на сдачу.
