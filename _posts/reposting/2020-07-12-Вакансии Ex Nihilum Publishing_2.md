@@ -23,4 +23,4 @@ categories:
 >
 > Предложения писать в сообщения группы или на mb@exnihilum.info>
 >
-> ![](/assets/images/_Ex-Nihilum-Publishing-CV_0.jpg)
+> ![](/assets/images/Ex-Nihilum-Publishing-CV_0.jpg)

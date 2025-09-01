@@ -9,4 +9,4 @@ categories:
 
 # UVG vs Numenera
 
-![https://twitter.com/valinardthewise/status/1338656380396449792?s=19](/assets/images/_UVG_vs_Numenera.jpg)
+![https://twitter.com/valinardthewise/status/1338656380396449792?s=19](/assets/images/UVG_vs_Numenera.jpg)
