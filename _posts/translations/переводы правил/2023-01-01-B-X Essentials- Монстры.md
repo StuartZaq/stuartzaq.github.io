@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "Гуманоид"
+title: "Монстры BXE"
 date: 2023-01-01
 author: "Sergey Pomerantsev"
-tags:
+tags: [перевод]
 categories:
 ---
-Title: Монстры BXE
-tags: [перевод]
-
-{{TOC}}
 
 Оригинальный [гугл-док](https://docs.google.com/document/d/1Mz3wU0H3sWPdZxvoaR1sh9DITnkes7QDzge7WJ4QUio/edit?usp=sharing).
+
+* TOC
+{:toc}
 
 # Гуманоиды
 
