@@ -16,4 +16,4 @@ categories:
 >
 > [github.com/anmcarrow/exnihilum.jobs/](https://github.com/anmcarrow/exnihilum.jobs/)
 >
-> ![](/images/_Ex-Nihilum-Publishing-CV.jpg)
+> ![](/assets/images/_Ex-Nihilum-Publishing-CV.jpg)

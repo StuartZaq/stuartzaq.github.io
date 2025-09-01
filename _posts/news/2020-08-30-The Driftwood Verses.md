@@ -9,7 +9,7 @@ categories:
 
 # The Driftwood Verses
 
-![](/images/_driftwood.webp)
+![](/assets/images/_driftwood.webp)
 
 Канал Paper Bay в телеге [рапортует](https://t.me/paperbay/76) о The Driftwood Verses, мрачном морском фэнтезийном сеттинге для настольных ролевых игр старой школы.
 

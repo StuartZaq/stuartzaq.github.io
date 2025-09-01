@@ -17,57 +17,57 @@ categories: [guides]
 
 Это полностью переписанные правила B/X 1981 года. Из отсебятины — только прояснение сильно туманных моментов из оригинальных правилах и опция Восходящего Класса Брони.
 
-![](/images/_OSE_1.jpg)
+![](/assets/images/_OSE_1.jpg)
 
 Продаются в коробке. Имеется 2 версии рисунка верхней крышки.
 
-![Peter Mullen (limited edition)](/images/_OSE_2.png)
+![Peter Mullen (limited edition)](/assets/images/_OSE_2.png)
 
-![Andrew Walter (standard edition)](/images/_OSE_3.png)
+![Andrew Walter (standard edition)](/assets/images/_OSE_3.png)
 
 ## Б. Толстая книжка, Rules Tome, она же Old-School Essentials Classic Fantasy Rules Tome
 
 Это замешанные в одну книжку данные из 5 тонких книжек.
 
-![Stefan Poag](/images/_OSE_4.jpg)
+![Stefan Poag](/assets/images/_OSE_4.jpg)
 
 ## Б1. Есть ещё 1 средняя книжка, она же Old-School Essentials Classic Fantasy Player's Rules Tome
 
 Это Rules Tome, обрезанная для игроков
 
-![Peter Mullen](/images/_OSE_5.jpg)
+![Peter Mullen](/assets/images/_OSE_5.jpg)
 
 ## В. 4 дополнительные тонкие книжки, они же Advanced Fantasy Supplements
 
 Это монстры/сокровища/заклинания/классы/некоторые правила из AD&D переписанные для B/X. На данный момент выпущены 2 книжки: классы+правила и заклинания, остальные две: монстры и сокровища в процессе [Кикстартера](https://www.kickstarter.com/projects/exaltedfuneral/old-school-essentials-advanced-fantasy).
 
-![Stefan Poag](/images/_OSE_6.png)
+![Stefan Poag](/assets/images/_OSE_6.png)
 
-![Stefan Poag](/images/_OSE_7.png)
+![Stefan Poag](/assets/images/_OSE_7.png)
 
-![Stefan Poag](/images/_OSE_8.png)
+![Stefan Poag](/assets/images/_OSE_8.png)
 
-![Stefan Poag](/images/_OSE_9.png)
+![Stefan Poag](/assets/images/_OSE_9.png)
 
 ## Г. 2 новые толстые книжки, они же Advanced Fantasy Player's Tome and Referee's Tome
 
 Если взять все материалы из 9 тонких книжек, перемешать и разделить на часть для ведущего и часть для игроков — получатся эти 2 книжки. Также пока находятся в процессе Кикстартера.
 
-![Peter Mullen](/images/_OSE_10.png)
+![Peter Mullen](/assets/images/_OSE_10.png)
 
-![Peter Mullen](/images/_OSE_11.png)
+![Peter Mullen](/assets/images/_OSE_11.png)
 
 ## Ч. Лимитированные версии
 
 Для Rules Tome и Advanced Fantasy Player's Tome and Referee's Tome, отличающиеся обложками. В отличие от вроде бы матовых, но марких оригинальных обложек, у этих — обложки «под кожу», а рисунки продавлены и зафойлены. Рисунки выполнены только серебряным цветом. У Rule Tome есть 2 варианта.
 
-![Stefan Poag](/images/_OSE_12.png)
+![Stefan Poag](/assets/images/_OSE_12.png)
 
-![James Shields](/images/_OSE_13.png)
+![James Shields](/assets/images/_OSE_13.png)
 
-![Andrew Walter](/images/_OSE_14.png)
+![Andrew Walter](/assets/images/_OSE_14.png)
 
-![Andrew Walter](/images/_OSE_15.png)
+![Andrew Walter](/assets/images/_OSE_15.png)
 
 ---
 

@@ -9,7 +9,7 @@ categories:
 
 # Покупка WHITEHACK
 
-![](/images/_whitebox_and_whitehack.jpg)
+![](/assets/images/_whitebox_and_whitehack.jpg)
 
 Белохак существует только в бумаге, а в pdf удалось найти чуть ли ни половину книжки только, поэтому решено было обзавестись копией.\
 \
