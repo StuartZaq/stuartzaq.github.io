@@ -6,6 +6,7 @@ title: Категории
 <ul>
   {% assign cats = site.posts | map: "categories" | uniq | sort %}
   {% for cat in cats %}
-    <li><a href="/categories/{{ cat | slugify }}/">{{ cat }}</a></li>
+    {% assign cat_slug = cat | slugify %}
+    <li><a href="/categories/{{ cat_slug }}/">{{ cat }}</a></li>
   {% endfor %}
 </ul>

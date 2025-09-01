@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /categories/gajdy/
 ---
 
 # Гайды
