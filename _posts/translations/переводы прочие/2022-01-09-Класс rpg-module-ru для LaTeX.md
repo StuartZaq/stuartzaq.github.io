@@ -3,10 +3,9 @@ layout: post
 title: "Класс rpg-module-ru для LaTe"
 date: 2022-01-09
 author: "Sergey Pomerantsev"
-tags:
+tags: [latex, переводы, гайды, совет]
 categories:
 ---
-tags: [latex, переводы, гайды, совет]
 
 # Класс rpg-module-ru для LaTeX
 

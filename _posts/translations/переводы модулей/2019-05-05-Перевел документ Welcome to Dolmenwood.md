@@ -3,10 +3,9 @@ layout: post
 title: "Перевел документ Welcome to Dolmenwood"
 date: 2019-05-05
 author: "Sergey Pomerantsev"
-tags:
+tags: [переводы]
 categories:
 ---
-tags: [переводы]
 
 # Перевел документ Welcome to Dolmenwood
 

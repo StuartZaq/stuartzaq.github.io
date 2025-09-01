@@ -3,10 +3,9 @@ layout: post
 title: "Перевод Монстров B/X Essentials"
 date: 2018-12-07
 author: "Sergey Pomerantsev"
-tags:
+tags: [переводы]
 categories:
 ---
-tags: [переводы]
 
 # Перевод Монстров B/X Essentials
 

@@ -3,10 +3,9 @@ layout: post
 title: "Анонс Сквозь ултанову дверь №"
 date: 2021-01-22
 author: "Sergey Pomerantsev"
-tags:
+tags: [kickstarter, анонс]
 categories:
 ---
-tags: [kickstarter, анонс]
 
 # Анонс Сквозь ултанову дверь №3
 

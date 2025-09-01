@@ -3,10 +3,9 @@ layout: post
 title: "B/X Essentials: Monsters, Part 0"
 date: 2018-07-27
 author: "Sergey Pomerantsev"
-tags:
+tags: [переводы]
 categories:
 ---
-tags: [переводы]
 
 # B/X Essentials: Monsters, Part 0
 

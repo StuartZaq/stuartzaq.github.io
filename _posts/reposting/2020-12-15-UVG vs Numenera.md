@@ -3,10 +3,9 @@ layout: post
 title: "UVG vs Numener"
 date: 2020-12-15
 author: "Sergey Pomerantsev"
-tags:
+tags: [мемы, uvg, numener]
 categories:
 ---
-tags: [мемы, uvg, numener]
 
 # UVG vs Numenera
 

@@ -3,10 +3,9 @@ layout: post
 title: "Проведение игры"
 date: 2021-02-03
 author: "Sergey Pomerantsev"
-tags:
+tags: [теория, переводы, советы, luke gearing]
 categories:
 ---
-tags: [теория, переводы, советы, luke gearing]
 
 
 # Проведение игры

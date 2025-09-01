@@ -3,10 +3,9 @@ layout: post
 title: "Whitehack 3-я редакци"
 date: 
 author: "Sergey Pomerantsev"
-tags:
+tags: [обзор]
 categories:
 ---
-tags: [обзор]
 
 # Whitehack 3-я редакция
 

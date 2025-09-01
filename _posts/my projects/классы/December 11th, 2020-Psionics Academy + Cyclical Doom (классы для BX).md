@@ -3,10 +3,9 @@ layout: post
 title: "Psionics Academy + Cyclical Doom (классы для B/X) Ψ"
 date: December 11th, 2020
 author: "Sergey Pomerantsev"
-tags:
+tags: [классы, сеттинг, псионик]
 categories:
 ---
-tags: [классы, сеттинг, псионик]
 
 # Psionics Academy + Cyclical Doom (классы для B/X) Ψψ
 

@@ -3,10 +3,9 @@ layout: post
 title: "Filling in the Blanks -- A Guide to Populating Hexes"
 date: 2020-07-01
 author: "Sergey Pomerantsev"
-tags:
+tags: [гекскроулы, kickstarter]
 categories:
 ---
-tags: [гекскроулы, kickstarter]
 
 # Filling in the Blanks -- A Guide to Populating Hexes
 

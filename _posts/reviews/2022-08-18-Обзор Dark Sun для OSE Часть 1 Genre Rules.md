@@ -3,10 +3,9 @@ layout: post
 title: "Обзор Dark Sun для OSE, Часть 1: Genre Rules"
 date: 2022-08-18
 author: "Sergey Pomerantsev"
-tags:
+tags: [обзоры, dark sun]
 categories:
 ---
-tags: [обзоры, dark sun]
 
 # Обзор Dark Sun для OSE, Часть 1: Genre Rules
 

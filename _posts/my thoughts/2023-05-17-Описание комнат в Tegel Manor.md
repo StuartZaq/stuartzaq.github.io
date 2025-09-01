@@ -3,10 +3,9 @@ layout: post
 title: "Описание комнат в Tegel Manor"
 date: 2023-05-17
 author: "Sergey Pomerantsev"
-tags:
+tags: [tegel manor]
 categories:
 ---
-tags: [tegel manor]
 
 # Описание комнат в Tegel Manor
 

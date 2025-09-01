@@ -3,10 +3,9 @@ layout: post
 title: "Fever Swamp"
 date: 2018-05-19
 author: "Sergey Pomerantsev"
-tags:
+tags: [практика, troika!, отчёты]
 categories:
 ---
-tags: [практика, troika!, отчёты]
 
 # Fever Swamp
 

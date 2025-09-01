@@ -3,10 +3,9 @@ layout: post
 title: "Maschinen Kriege"
 date: 2020-12-19
 author: "Sergey Pomerantsev"
-tags:
+tags: [фантастика, сеттин]
 categories:
 ---
-tags: [фантастика, сеттин]
 
 # Maschinen Krieger
 

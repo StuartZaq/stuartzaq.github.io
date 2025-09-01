@@ -3,10 +3,9 @@ layout: post
 title: "Похоронные обряды или Swyvers RP"
 date: 2020-11-27
 author: "Sergey Pomerantsev"
-tags:
+tags: [правила, переводы, luke gearin]
 categories:
 ---
-tags: [правила, переводы, luke gearin]
 
 # Похоронные обряды или Swyvers RPG
 

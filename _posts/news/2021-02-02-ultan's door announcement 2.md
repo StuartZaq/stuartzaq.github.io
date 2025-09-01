@@ -3,10 +3,9 @@ layout: post
 title: "Сквозь ултанову дверь №3 быть (ещё бы"
 date: 2021-02-02
 author: "Sergey Pomerantsev"
-tags:
+tags: [kickstarter, анонс]
 categories:
 ---
-tags: [kickstarter, анонс]
 
 # Сквозь ултанову дверь №3 быть (ещё бы)
 

@@ -3,10 +3,9 @@ layout: post
 title: "The Driftwood Verse"
 date: 2020-08-30
 author: "Sergey Pomerantsev"
-tags:
+tags: [перепосты, гекскроулы, kickstarte]
 categories:
 ---
-tags: [перепосты, гекскроулы, kickstarte]
 
 # The Driftwood Verses
 

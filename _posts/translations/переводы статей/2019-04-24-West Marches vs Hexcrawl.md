@@ -3,10 +3,9 @@ layout: post
 title: "West Marches vs Hexcrawl"
 date: 2019-04-24
 author: "Sergey Pomerantsev"
-tags:
+tags: [переводы]
 categories:
 ---
-tags: [переводы]
 
 # West Marches vs Hexcrawl
 

@@ -3,10 +3,9 @@ layout: post
 title: "Вакансии Ex Nihilum Publishin"
 date: 2020-07-12
 author: "Sergey Pomerantsev"
-tags:
+tags: [перепост]
 categories:
 ---
-tags: [перепост]
 
 # Вакансии Ex Nihilum Publishing
 

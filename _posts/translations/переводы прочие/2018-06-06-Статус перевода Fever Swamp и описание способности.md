@@ -3,10 +3,9 @@ layout: post
 title: "Статус перевода Fever Swamp и описание способности"
 date: 2018-06-06
 author: "Sergey Pomerantsev"
-tags:
+tags: [переводы]
 categories:
 ---
-tags: [переводы]
 
 # Статус перевода Fever Swamp и описание способности
 

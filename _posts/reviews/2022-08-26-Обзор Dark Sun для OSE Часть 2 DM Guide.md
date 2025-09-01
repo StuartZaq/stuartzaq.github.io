@@ -3,10 +3,9 @@ layout: post
 title: "Обзор Dark Sun для OSE, Часть 2: Dungeon Master's Guide"
 date: 2022-08-26
 author: "Sergey Pomerantsev"
-tags:
+tags: [обзоры, dark sun]
 categories:
 ---
-tags: [обзоры, dark sun]
 
 # Обзор Dark Sun для OSE, Часть 2: Dungeon Master's Guide
 

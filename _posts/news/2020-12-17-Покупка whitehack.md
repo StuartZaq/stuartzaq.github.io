@@ -3,10 +3,9 @@ layout: post
 title: "Покупка WHITEHAC"
 date: 2020-12-17
 author: "Sergey Pomerantsev"
-tags:
+tags: [collection, phot]
 categories:
 ---
-tags: [collection, phot]
 
 # Покупка WHITEHACK
 
