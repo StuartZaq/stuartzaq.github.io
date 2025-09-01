@@ -4,7 +4,7 @@ title: "Slavic setting"
 date: 2023.01.01
 author: "Sergey Pomerantsev"
 tags: [setting]
-categories: [Гайды]
+categories: [guides]
 ---
 
 Здесь я собираю все известные ссылки на материалы по славянскому сеттингу
