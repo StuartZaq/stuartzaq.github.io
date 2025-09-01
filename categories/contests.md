@@ -6,7 +6,7 @@ layout: page
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "Конкурсы" %}
+    {% if post.categories contains "contests" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
     {% endif %}
   {% endfor %}
