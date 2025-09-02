@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Maschinen Kriege"
+title: "Maschinen Krieger"
 date: 2020-12-19
 author: "Sergey Pomerantsev"
-tags: [фантастика, сеттин]
+tags: [фантастика, сеттинг]
 categories:
 ---
-
-# Maschinen Krieger
 
 Не удивительно, что я и ранее натыкался на подобных "мехов" — серия отнюдь не новая. **Maschinen Krieger ZbV 3000** — полное название сеттинга — зародился в 80-х годах с подачи японца, уставшего от засилия фэнтези в те времена. Во всяком случае так пишут...
 

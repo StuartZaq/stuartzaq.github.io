@@ -7,8 +7,6 @@ tags:
 categories:
 ---
 
-# Введение к Blackmarsh
-
 Читаю введение к Blackmarsh:
 
 “This system of using hex numbers allows a referee to quickly find the locales on the map and what is near a location. This helps keep the map uncluttered and easy to read.”
