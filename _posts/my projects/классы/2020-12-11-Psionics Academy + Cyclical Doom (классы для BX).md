@@ -1,23 +1,17 @@
 ---
 layout: post
-title: "Psionics Academy + Cyclical Doom (классы для B/X) Ψ"
+title: "Psionics Academy + Cyclical Doom (классы для B/X) Ψψ"
 date: December 11th, 2020
 author: "Sergey Pomerantsev"
-tags: [классы, сеттинг, псионик]
+tags: [классы, сеттинг, псионика]
 categories:
 ---
-
-# Psionics Academy + Cyclical Doom (классы для B/X) Ψψ
 
 ![Картинка вроде из Dark Sun, но им я не вдохновлялся](/assets/images/psi.jpg)
 
 Делал-делал и решил не доделывать правила с врезанным в них сеттингом, смысл которого виден в названии статьи и который наролился у меня в SWN.
 
 Однако, Ransvind своим [постом](https://vk.com/d12_owls?w=wall-199274572_71) вдохновил меня всё же выложить хотя бы классы.
-
-{{more}}
-
----
 
 # Вступление
 
