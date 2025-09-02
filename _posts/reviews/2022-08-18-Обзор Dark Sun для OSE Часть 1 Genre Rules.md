@@ -7,8 +7,6 @@ tags: [обзоры, dark sun]
 categories:
 ---
 
-# Обзор Dark Sun для OSE, Часть 1: Genre Rules
-
 Это начало серии обзоров на [суплименты Dark Sun для OSE](https://www.reddit.com/r/osr/comments/woongi/final_revisions_to_the_dark_sun_ose_conversion/) от Lixu.
 
 Признаюсь, я не читал Dark Sun оригинальный или какие-то из его извозов, это моё первое столкновение (кроме [обзора в Восточных Землях](https://eastern-lands.blogspot.com/2018/06/dark-sun-boxed-set-2e.html)).
