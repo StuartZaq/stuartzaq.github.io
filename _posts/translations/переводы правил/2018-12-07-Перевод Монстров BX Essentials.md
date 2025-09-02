@@ -7,12 +7,10 @@ tags: [переводы]
 categories:
 ---
 
-# Перевод Монстров B/X Essentials
-
 Я договорился с Гэвином Норманом, что русский перевод у него полежит, вместе с другими бесплатными текстовыми версиями B/X Essentials.
 Перевод наконец-то закончен, а так же откорректировал и отредактирован ZoidZXX, за что ему большое спасибо.
 Есть несколько мест, которые я хотел бы поправить, но сначала надо согласовать с автором. Это долго.
 Все комментарии и правки принимаются в личку (см. инфо канала) или на почту (см. ссылку в переводе).
 
-https://docs.google.com/document/d/1Mz3wU0H3sWPdZxvoaR1sh9DITnkes7QDzge7WJ4QUio/edit#heading=h.gjdgxs
+<https://docs.google.com/document/d/1Mz3wU0H3sWPdZxvoaR1sh9DITnkes7QDzge7WJ4QUio/edit#heading=h.gjdgxs>
 

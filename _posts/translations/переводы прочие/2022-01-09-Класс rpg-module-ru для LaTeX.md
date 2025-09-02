@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Класс rpg-module-ru для LaTe"
+title: "Класс rpg-module-ru для LaTeX"
 date: 2022-01-09
 author: "Sergey Pomerantsev"
-tags: [latex, переводы, гайды, совет]
+tags: [latex, переводы, гайды, советы]
 categories:
 ---
-
-# Класс rpg-module-ru для LaTeX
 
 Итак, свершилось, мне удалось победить GitHub, и мои доп. файлы всё же приняли в [репозиторий проекта](https://github.com/slithy/rpg_module) оригинального rpg-module!
 
