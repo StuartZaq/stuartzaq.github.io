@@ -4,7 +4,7 @@ title: Категории
 ---
 
 <ul>
-  {% assign cat_map = "guides:Гайды,contests:Конкурсы,otchety-s-igr:Отчёты с игр" | split: "," %}
+  {% assign cat_map = "guides:Гайды,contests:Конкурсы,otchety-s-igr:Отчёты с игр,news:Новости,pictures:Картинки,projects:Мои проекты,reposting:Перепосты,reviews:Мои обзоры,thoughts:Мои мысли,translations:Мои переводы" | split: "," %}
   {% assign all_categories = site.posts | map: 'categories' | flatten | uniq | sort %}
 
   {% for cat in all_categories %}
