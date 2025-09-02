@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Вакансии Ex Nihilum Publishin"
+title: "Вакансии Ex Nihilum Publishing"
 date: 2020-07-12
 author: "Sergey Pomerantsev"
-tags: [перепост]
+tags: [перепосты]
 categories:
 ---
-
-# Вакансии Ex Nihilum Publishing
 
 Дружественное издательство предлагает работу связанную с НРИ и (лично мне кажущейся интересной) практикой в github и markdown, которую позже смело можно включать в резюме, если вам с этим по пути!
 

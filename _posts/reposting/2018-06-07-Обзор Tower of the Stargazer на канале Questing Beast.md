@@ -7,11 +7,9 @@ tags:
 categories:
 ---
 
-# Обзор Tower of the Stargazer на канале Questing Beast
-
 На канале, который я смотрю чаще других по данной теме выкатили обзор приключения, с которого я стартовал свой гекскроул.
 
-https://youtu.be/p7j7IcP60oA
+<https://youtu.be/p7j7IcP60oA>
 
 На канале Questing Beast наконец-то сделали обзор на Tower of the Stargazer.
 

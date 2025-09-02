@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Вакансии Ex Nihilum Publishin"
+title: "Вакансии Ex Nihilum Publishing"
 date: 2020-11-16
 author: "Sergey Pomerantsev"
-tags: [перепост]
+tags: [перепосты]
 categories:
 ---
-
-# Вакансии Ex Nihilum Publishing
 
 Издательство открывает рубрику с вакансиями. Периодически там появляется что-то новенькое!
 
