@@ -7,8 +7,6 @@ tags: [kickstarter]
 categories:
 ---
 
-# Barrowmaze: HighFell - The Drifting Dungeon
-
 [Barrowmaze: HighFell - The Drifting Dungeon](https://www.kickstarter.com/projects/843284272/barrowmaze-highfell-the-drifting-dungeon)
 Давненько на Кикстартере не видел ничего для OSR.
 Мегаданж от создателя [Barrowmaze](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete) — [Greg Gillespie](http://lead-men-tell-no-tales.blogspot.com/).

@@ -7,8 +7,6 @@ tags:
 categories:
 ---
 
-# Анонс Advanced Labyrinth Lord
-
 Goblinoid Games решили соединить свой хэвирульный клон с "аддоном"-компаньоном, чтобы получился ХЭВИ рульный клон, но более удобный.
 
-https://www.kickstarter.com/projects/1895361773/advanced-labyrinth-lord
+<https://www.kickstarter.com/projects/1895361773/advanced-labyrinth-lord>
