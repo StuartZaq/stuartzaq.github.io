@@ -4,7 +4,7 @@ title: "Перевод Монстров B/X Essentials"
 date: 2018-12-07
 author: "Sergey Pomerantsev"
 tags: [переводы]
-categories:
+categories: [translations]
 ---
 
 Я договорился с Гэвином Норманом, что русский перевод у него полежит, вместе с другими бесплатными текстовыми версиями B/X Essentials.

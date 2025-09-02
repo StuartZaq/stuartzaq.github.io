@@ -4,7 +4,7 @@ title: "Похоронные обряды или Swyvers RPG"
 date: 2020-11-27
 author: "Sergey Pomerantsev"
 tags: [правила, переводы, luke gearing]
-categories:
+categories: [translations]
 ---
 
 В 2016 году Luke Gearing написал пре-альфа версию своей игры "Swyvers RPG".  

@@ -4,7 +4,7 @@ title: "Покупка WHITEHACK"
 date: 2020-12-17
 author: "Sergey Pomerantsev"
 tags: [collection, photoes]
-categories:
+categories: [news]
 ---
 
 ![](/assets/images/whitebox_and_whitehack.jpg)

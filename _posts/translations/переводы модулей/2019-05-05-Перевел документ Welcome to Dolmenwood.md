@@ -4,7 +4,7 @@ title: "Перевёл документ Welcome to Dolmenwood"
 date: 2019-05-05
 author: "Sergey Pomerantsev"
 tags: [переводы]
-categories:
+categories: [translations]
 ---
 
 Перевел документ Welcome to Dolmenwood, который рекомендовалось прочесть перед приключением Winter's Daughter.

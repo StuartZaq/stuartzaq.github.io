@@ -4,7 +4,7 @@ title: "Вышел перевод Fever Swamp"
 date: 2018-09-09
 author: "Sergey Pomerantsev"
 tags:
-categories:
+categories: [news]
 ---
 
 Не знаю, как такое можно было пропустить, но вдруг вам удалось:

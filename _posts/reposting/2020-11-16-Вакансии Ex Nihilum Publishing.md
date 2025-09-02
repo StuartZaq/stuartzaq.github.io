@@ -4,7 +4,7 @@ title: "Вакансии Ex Nihilum Publishing"
 date: 2020-11-16
 author: "Sergey Pomerantsev"
 tags: [перепосты]
-categories:
+categories: [reposting]
 ---
 
 Издательство открывает рубрику с вакансиями. Периодически там появляется что-то новенькое!

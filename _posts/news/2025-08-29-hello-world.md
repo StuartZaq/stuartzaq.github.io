@@ -4,7 +4,7 @@ title: "Первый пост через github pages"
 date: 2025-08-29 15:23:00 +0300
 author: "Sergey Pomerantsev"
 tags:
-categories:
+categories: [news]
 ---
 
 Прошло 8 месяцев, как я не оплачиваю блог на blot. ~~По многочисленным жалобам было решено блог возобновить.~~

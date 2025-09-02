@@ -4,7 +4,7 @@ title: "West Marches vs Hexcrawl"
 date: 2019-04-24
 author: "Sergey Pomerantsev"
 tags: [переводы]
-categories:
+categories: [translations]
 ---
 
 Накопилось некоторое количество открытых ссылок по гекскроулу и наконец-то сел их почитать. Буду делиться интересным и новым для себя.

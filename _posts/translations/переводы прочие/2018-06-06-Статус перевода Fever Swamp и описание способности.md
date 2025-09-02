@@ -4,7 +4,7 @@ title: "Статус перевода Fever Swamp и описание спосо
 date: 2018-06-06
 author: "Sergey Pomerantsev"
 tags: [переводы]
-categories:
+categories: [translations]
 ---
 
 Почти закончил переводить Fever Swamp. Остались классы и монстры.

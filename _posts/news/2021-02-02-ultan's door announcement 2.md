@@ -4,7 +4,7 @@ title: "Сквозь ултанову дверь №3 быть (ещё бы)"
 date: 2021-02-02
 author: "Sergey Pomerantsev"
 tags: [kickstarter, анонсы]
-categories:
+categories: [news]
 ---
 
 Пока я 13 минут думал, писать ли тут повторно про [кикстертер](https://www.kickstarter.com/projects/through-ultans-door/through-ultans-door) Бена Лоренса по 3-му выпуску "Сквозь ултанову дверь" (он только что стартанул), как нужная сумма оказалась собрана.

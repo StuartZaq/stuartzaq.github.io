@@ -4,7 +4,7 @@ title: "Обзор Dark Sun для OSE, Часть 1: Genre Rules"
 date: 2022-08-18
 author: "Sergey Pomerantsev"
 tags: [обзоры, dark sun]
-categories:
+categories: [reviews]
 ---
 
 Это начало серии обзоров на [суплименты Dark Sun для OSE](https://www.reddit.com/r/osr/comments/woongi/final_revisions_to_the_dark_sun_ose_conversion/) от Lixu.

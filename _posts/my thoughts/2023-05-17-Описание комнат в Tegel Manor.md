@@ -4,7 +4,7 @@ title: "Описание комнат в Tegel Manor"
 date: 2023-05-17
 author: "Sergey Pomerantsev"
 tags: [tegel manor]
-categories:
+categories: [thoughts]
 ---
 
 Занялся чтением JG0027 Tegel Manor --- мегаданжа (а пишут, что и фанхауза) от Judge Guild для 0e.

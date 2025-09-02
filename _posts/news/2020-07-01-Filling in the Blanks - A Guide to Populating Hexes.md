@@ -4,7 +4,7 @@ title: "Filling in the Blanks -- A Guide to Populating Hexes"
 date: 2020-07-01
 author: "Sergey Pomerantsev"
 tags: [гекскроулы, kickstarter]
-categories:
+categories: [news]
 ---
 
 Чуть меньше года назад Тод Лебек, столяр-краснодеревщик из Шарлотсвилла, начал выпускать серию дополнений к OSE под названием Populated Hexcrawl. В серию входят как выпуски-гайды-инструкции, о том как сочинить карту или описать гильдию воров, и т.п., так и выпуски с составленными им гексами.

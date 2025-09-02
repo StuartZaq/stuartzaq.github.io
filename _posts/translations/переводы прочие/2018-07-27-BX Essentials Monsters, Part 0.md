@@ -4,7 +4,7 @@ title: "B/X Essentials: Monsters, Part 0"
 date: 2018-07-27
 author: "Sergey Pomerantsev"
 tags: [переводы]
-categories:
+categories: [translations]
 ---
 
 Начинаю новый цикл выпусков в которых буду выкладывать куски перевода Монстрятника к B/X Essentials.

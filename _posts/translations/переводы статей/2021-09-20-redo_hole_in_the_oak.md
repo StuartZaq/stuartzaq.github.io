@@ -4,7 +4,7 @@ title: "Размещаем Нору под дубом в Кромлесе"
 date: 2021-09-20
 author: "Sergey Pomerantsev"
 tags: [donut, переводы, goatmans goblet, dolmenwood]
-categories:
+categories: [translations]
 ---
 
 Волею судеб наткнулся на относительно недавнюю [статью](http://www.goatmansgoblet.com/2021/03/an-attempted-framework-conversion-for.html) в блоге **Goatman's goblet**, который давно так уже и много на самом деле пописывает материалы для Кромлеса. Автор предлагает доделать ["Нору под дубом"](https://docs.google.com/document/d/1TH5oFbDCur4ska02fxmqBpNh4A_wew2kCcFyKA653uc), чтобы её можно было получше разместить в [Кромлесе](https://drive.google.com/drive/folders/1SbBWvqjMqjvlKUIB7lUYztpkOuEZls-G).

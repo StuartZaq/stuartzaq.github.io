@@ -4,7 +4,7 @@ title: "Обзор Dark Sun для OSE, Часть 3: Monsters Manual"
 date: 2022-08-29
 author: "Sergey Pomerantsev"
 tags: [обзоры, dark sun]
-categories:
+categories: [reviews]
 ---
 
 Всего в книжке около 60 монстров. 4 из них --- вроде "домашних питомцев"/фамильяров, а ещё 1 --- производный от одного из монстров, сильно поменявший статы.

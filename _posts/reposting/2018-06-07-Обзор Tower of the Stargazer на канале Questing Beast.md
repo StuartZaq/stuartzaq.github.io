@@ -4,7 +4,7 @@ title: "Обзор Tower of the Stargazer на канале Questing Beast"
 date: 2018-06-07
 author: "Sergey Pomerantsev"
 tags:
-categories:
+categories: [reposting]
 ---
 
 На канале, который я смотрю чаще других по данной теме выкатили обзор приключения, с которого я стартовал свой гекскроул.

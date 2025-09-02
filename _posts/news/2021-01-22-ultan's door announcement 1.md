@@ -4,7 +4,7 @@ title: "Анонс Сквозь ултанову дверь №3"
 date: 2021-01-22
 author: "Sergey Pomerantsev"
 tags: [kickstarter, анонсы]
-categories:
+categories: [news]
 ---
 
 Помните я водил (и писал отчеты) "Сквозь ултанову дверь"?  

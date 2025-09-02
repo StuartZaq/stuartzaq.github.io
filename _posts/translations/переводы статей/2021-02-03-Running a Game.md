@@ -4,7 +4,7 @@ title: "Проведение игры"
 date: 2021-02-03
 author: "Sergey Pomerantsev"
 tags: [теория, переводы, советы, luke gearing]
-categories:
+categories: [translations]
 ---
 
 Представляю вам перевод [статьи](https://antlerrr.blogspot.com/2020/06/running-game.html) Люка Гиринга — моего кумира последних месяцев. Не забудьте добавить его [новый блог](https://lukegearing.blot.im/) в закладки. Название поста говорит само за себя, Люк рассказывает, как водит свои игры и даёт советы, на что стоит обращать внимание.

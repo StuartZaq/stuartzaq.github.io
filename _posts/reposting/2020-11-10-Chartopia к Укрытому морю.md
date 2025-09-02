@@ -4,7 +4,7 @@ title: "Chartopia к Укрытому морю"
 date: 2020-11-10
 author: "Sergey Pomerantsev"
 tags: [перепосты, chartopia]
-categories:
+categories: [reposting]
 ---
 
 Делать удобные автоматизированные материалы к своим играм/модулям — хороший тон, или даже — некая грань профессионализма.

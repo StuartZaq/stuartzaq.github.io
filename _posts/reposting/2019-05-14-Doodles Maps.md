@@ -4,7 +4,7 @@ title: "Doodles Maps"
 date: 2019-05-14
 author: "Sergey Pomerantsev"
 tags:
-categories:
+categories: [reposting]
 ---
 
 Не гекскроул, но поделиться не будет лишним. Давно схоронил, не помню откуда, может кто-то уже постил.

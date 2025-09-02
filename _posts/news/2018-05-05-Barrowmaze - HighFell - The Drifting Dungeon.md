@@ -4,7 +4,7 @@ title: "Barrowmaze: HighFell - The Drifting Dungeon"
 date: 2018-05-05
 author: "Sergey Pomerantsev"
 tags: [kickstarter]
-categories:
+categories: [news]
 ---
 
 [Barrowmaze: HighFell - The Drifting Dungeon](https://www.kickstarter.com/projects/843284272/barrowmaze-highfell-the-drifting-dungeon)

@@ -4,7 +4,7 @@ title: "The Driftwood Verses"
 date: 2020-08-30
 author: "Sergey Pomerantsev"
 tags: [перепосты, гекскроулы, kickstarter]
-categories:
+categories: [news]
 ---
 
 ![](/assets/images/driftwood.webp)

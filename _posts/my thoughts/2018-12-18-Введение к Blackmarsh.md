@@ -4,7 +4,7 @@ title: "Введение к Blackmarsh"
 date: 2018-12-18
 author: "Sergey Pomerantsev"
 tags:
-categories:
+categories: [thoughts]
 ---
 
 Читаю введение к Blackmarsh:

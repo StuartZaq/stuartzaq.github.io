@@ -4,7 +4,7 @@ title: "Struggle for survival (TTG)"
 date: 2018-07-12
 author: "Sergey Pomerantsev"
 tags:
-categories:
+categories: [news]
 ---
 
 Не представляете, как мне стыдно, что я тут больше месяца ничего практически не пишу по делу (только тогда, когда вспоминаю об этом).
