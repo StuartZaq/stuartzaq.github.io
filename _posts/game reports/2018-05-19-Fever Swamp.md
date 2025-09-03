@@ -4,7 +4,7 @@ title: "Fever Swamp"
 date: 2018-05-19
 author: "Sergey Pomerantsev"
 tags: [практика, troika!, отчёты]
-categories: [otchety-s-igr]
+categories: [game-reports]
 ---
 
 Сегодня была удивительная или лучше сказать насыщенная сессия:
